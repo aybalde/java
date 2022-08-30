@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb5e93ed-1eed-459d-b1dc-55c52ec9c26b" name="Changes" comment="helloe java">
+    <list default="true" id="fb5e93ed-1eed-459d-b1dc-55c52ec9c26b" name="Changes" comment="degre">
+      <change afterPath="$PROJECT_DIR$/src/expression_condi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/formule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/identificateur.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Degre2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Degre2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +49,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Degre2">
+  <component name="RunManager" selected="Application.expression_condi">
     <configuration name="Degre2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Degre2" />
       <module name="HelloWorld" />
@@ -61,8 +64,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="expression_condi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="expression_condi" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="identificateur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="identificateur" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.expression_condi" />
+        <item itemvalue="Application.identificateur" />
         <item itemvalue="Application.Degre2" />
         <item itemvalue="Application.HelloWorld" />
       </list>
@@ -98,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661873072114</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="degre">
+      <created>1661899067266</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661899067270</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,9 +140,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="helloe java" />
-    <option name="LAST_COMMIT_MESSAGE" value="helloe java" />
+    <MESSAGE value="degre" />
+    <option name="LAST_COMMIT_MESSAGE" value="degre" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/intellij_IDEA$Degre2.ic" NAME="Degre2 Coverage Results" MODIFIED="1661898312258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/intellij_IDEA$identificateur.ic" NAME="identificateur Coverage Results" MODIFIED="1661901532648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
