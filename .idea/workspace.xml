@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb5e93ed-1eed-459d-b1dc-55c52ec9c26b" name="Changes" comment="degre">
-      <change afterPath="$PROJECT_DIR$/src/expression_condi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/formule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/identificateur.java" afterDir="false" />
+    <list default="true" id="fb5e93ed-1eed-459d-b1dc-55c52ec9c26b" name="Changes" comment="aout">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/formule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/formule.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.expression_condi">
+  <component name="RunManager" selected="Application.formule">
     <configuration name="Degre2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Degre2" />
       <module name="HelloWorld" />
@@ -71,6 +68,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="formule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="formule" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="identificateur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="identificateur" />
       <module name="HelloWorld" />
@@ -80,6 +84,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.formule" />
         <item itemvalue="Application.expression_condi" />
         <item itemvalue="Application.identificateur" />
         <item itemvalue="Application.Degre2" />
@@ -124,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661899067270</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="aout">
+      <created>1661901819461</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661901819461</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,10 +153,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="helloe java" />
     <MESSAGE value="degre" />
-    <option name="LAST_COMMIT_MESSAGE" value="degre" />
+    <MESSAGE value="aout" />
+    <option name="LAST_COMMIT_MESSAGE" value="aout" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/intellij_IDEA$Degre2.ic" NAME="Degre2 Coverage Results" MODIFIED="1661898312258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/intellij_IDEA$identificateur.ic" NAME="identificateur Coverage Results" MODIFIED="1661901532648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/intellij_IDEA$formule.ic" NAME="formule Coverage Results" MODIFIED="1661954755847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
